@@ -1,0 +1,223 @@
+/*-------------------------------------------------
+PAGE BODY
+-------------------------------------------------*/
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif;
+  color: #333;
+  background-color: #fff;
+  text-align: center;
+}
+
+/* Make sure the table cells show the right font */
+td { font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif; }
+
+
+/*-------------------------------------------------
+GLOBALS & GENERAL CASES
+-------------------------------------------------*/
+
+a {text-decoration: underline; padding: 1px; }
+a:link { color: #03c; }
+a:visited { color: #03c; }
+a:hover { color: #fff; background-color: #30c; text-decoration: none; }
+
+
+a.image:link, a.image:visited, a.image:hover {
+  background: none;
+  padding: 0;
+}
+
+a.image img {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+a.admin:link, a.admin:visited {
+  color: #f00;
+  font-family: verdana;
+  font-size: 11px;
+  font-weight: normal;
+}
+
+a.admin:hover { color: #fff; background: #f00; }
+
+a.black:link, a.black:visited {
+  color: #000;
+}
+
+a.black:hover {
+  color: #fff;
+  background: #000;
+}
+
+a.anchor:link, a.anchor:visited, a.anchor:hover {
+  color: #fff;
+  background: #fff;
+  font-size: 0px;
+  text-decoration: none;
+  padding: 0;
+}
+
+form {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+small {
+  font-size: 10px;
+  line-height: 13px;
+}
+
+
+h1 {
+  font-family: "Lucida Grande", arial, sans-serif;
+  padding: 0;
+  border-bottom: 0;
+  margin: 0;
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Lucida Grande", arial, sans-serif;
+  margin: 20px 0 5px 0px;
+  color: #333;
+  font-size: 14px;
+  padding: 0;
+}
+
+h3 {
+  margin: 20px 0 0 0;
+  color: #666;
+  font-family: "Lucida Grande", arial, sans-serif;
+  font-size: 14px;
+  padding: 0;
+}
+
+td, th {
+  padding: 3px;
+}
+
+.red {
+  color: #c00;
+}
+
+.blue {
+  color: #06c;
+  }
+  
+.green {
+  color: #390;
+  }
+  
+.highlight {
+  background-color: #ffc;
+}
+
+.new {
+  background-color: #cfc;
+}
+
+strike {
+  color: #999;
+}
+
+code, pre       {
+  font-family: "Bitstream Vera Sans Mono", monaco, "Courier New", courier, monospace;
+  background: inherit;
+  color: #333;
+  font-size: 80%
+}
+
+/*  Work around IE/Win code size bug - courtesy Jesper, waffle.wootest.net  */
+* html code     {
+  font-size : 105%; 
+}
+
+
+
+/*-------------------------------------------------
+PAGE STRUCTURE
+-------------------------------------------------*/
+div#toppromo {
+  text-align: center;
+  background-color: #205BAB;
+  padding: 5px;
+  color: #fff;
+  font-size: 10px;
+  border-bottom: 1px solid #efefef;
+  margin-bottom: 20px;
+}
+
+
+/*  */
+div#Container {
+  margin: 0 auto;
+  text-align: center;
+  width: 85%;
+  min-width: 750px;
+}
+
+#Header {
+  clear: both;
+  float: left;
+  width: 100%;
+  margin: 0 0 20px 0;
+  text-align: left;
+}
+
+#Nav {
+  float: left;
+  padding: 0 15px 0 0;
+  margin: 0 0 0 0;
+  font-size: 11px;
+  line-height: 53px;
+}
+
+.Left {
+  clear: left;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  width: 70%;
+  float: left;
+}
+
+.Full {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  width: 100%;
+  clear: left;
+}
+
+.Right {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  float: left;
+  width: 30%;
+  
+}
+
+
+
+div#footer {
+  clear: left;
+  border-top: 1px solid #dcdcdc;
+  padding: 10px 0;
+  font-size: 10px;
+  line-height: 14px;
+  color: #666;
+  text-align: left;
+}

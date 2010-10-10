@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/MDB2/Driver/Native
+END
+mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/MDB2/Driver/Native/mysqli.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/MDB2/Driver/Native/Common.php
+END

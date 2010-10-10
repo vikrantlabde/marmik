@@ -1,0 +1,11 @@
+<?php
+#*************************************************************************************************
+# File Name     : index.php
+# Created By   	: Kshama Deshmukh
+# Date Created  : 21 August 2006 
+# Date Modified : 21 August 2006
+# Modified By   : Kshama Deshmukh
+# Purpose       : This file redirects user to main index page
+#*************************************************************************************************
+header("Location:http://www.jyve.com");
+?>

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses
+END
+fck_othercommands.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fck_othercommands.js
+END
+fcktextcolorcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fcktextcolorcommand.js
+END
+fcknamedcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fcknamedcommand.js
+END
+fckpasteplaintextcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fckpasteplaintextcommand.js
+END
+fckspellcheckcommand_gecko.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fckspellcheckcommand_gecko.js
+END
+fcktablecommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fcktablecommand.js
+END
+fckpastewordcommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fckpastewordcommand.js
+END
+fckspellcheckcommand_ie.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fckspellcheckcommand_ie.js
+END
+fckfitwindow.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fckfitwindow.js
+END
+fckstylecommand.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/fckeditor/editor/_source/commandclasses/fckstylecommand.js
+END

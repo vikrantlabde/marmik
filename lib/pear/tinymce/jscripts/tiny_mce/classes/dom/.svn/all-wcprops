@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom
+END
+Selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/Selection.js
+END
+Element.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/Element.js
+END
+Serializer.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/Serializer.js
+END
+ScriptLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/ScriptLoader.js
+END
+Range.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/Range.js
+END
+XMLWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/XMLWriter.js
+END
+TridentSelection.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/TridentSelection.js
+END
+DOMUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/DOMUtils.js
+END
+Sizzle.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/Sizzle.js
+END
+EventUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/EventUtils.js
+END
+StringWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/marmik/!svn/ver/2/trunk/marmik/lib/pear/tinymce/jscripts/tiny_mce/classes/dom/StringWriter.js
+END
